@@ -10,5 +10,7 @@ Let's change the world together with Open-Source.
 ### Contributors
 Who contributed to this repository :
 * [master] - hello world in php
+* [Muhammad_Fatkurozi] - hello world in javascript
 
   [master]: <https://github.com/codeind>
+  [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
