@@ -10,7 +10,7 @@ Let's change the world together with Open-Source.
 ### Contributors
 Who contributed to this repository :
 * [master] - hello world in php
-* [Muhammad_Fatkurozi] - hello world in javascript, go & python
+* [Muhammad_Fatkurozi] - hello world in javascript, go, python, & java
 * [Abimanyu_Gatya_Dhaneswara] - hello world in python
 
   [master]: <https://github.com/codeind>
