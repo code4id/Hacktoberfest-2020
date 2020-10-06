@@ -12,10 +12,13 @@ Who contributed to this repository :
 * [master] - hello world in php
 * [Muhammad_Fatkurozi] - hello world in javascript, go, python, & java
 * [Abimanyu_Gatya_Dhaneswara] - hello world in python
+* [dsibilio] - hello world in C
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
   [Abimanyu_Gatya_Dhaneswara]: <https://github.com/geekbim>
+  [dsibilio]: <https://github.com/dsibilio>
+  
   
  ### Link
 
