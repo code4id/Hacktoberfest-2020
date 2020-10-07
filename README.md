@@ -10,14 +10,16 @@ This repo used for celebrating Hacktoberfest by getting involved in the open sou
 ### Contributors
 Who contributed to this repository :
 * [master] - hello world in php
-* [Muhammad_Fatkurozi] - hello world in javascript, go, python, & java
+* [Muhammad_Fatkurozi] - hello world in javascript, go, python, java, & dart
 * [Abimanyu_Gatya_Dhaneswara] - hello world in python
-* [Alan Tsui] - hello world in c#
+* [Alan_Tsui] - hello world in c#
+* [dsibilio] - hello world in C
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
   [Abimanyu_Gatya_Dhaneswara]: <https://github.com/geekbim>
-  [Alan Tsui]: <https://github.com/kingal1337>
+  [Alan_Tsui]: <https://github.com/kingal1337>
+  [dsibilio]: <https://github.com/dsibilio>
   
  ### Link
 
