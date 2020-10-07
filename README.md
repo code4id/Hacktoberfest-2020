@@ -4,6 +4,7 @@
 This repo used for celebrating Hacktoberfest by getting involved in the open source community by completing some simple tasks in this project.
 
 ### Contribution
+How contributed to this repository :
   - Create the Hello World syntax in your preferred programming language.
   - Add your name & link to your github account in README.md
 
