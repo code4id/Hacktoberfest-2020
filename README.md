@@ -14,12 +14,14 @@ Who contributed to this repository :
 * [Abimanyu_Gatya_Dhaneswara] - hello world in python
 * [Alan_Tsui] - hello world in c#
 * [dsibilio] - hello world in C
+* [sark-2110] - hello world in C++
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
   [Abimanyu_Gatya_Dhaneswara]: <https://github.com/geekbim>
   [Alan_Tsui]: <https://github.com/kingal1337>
   [dsibilio]: <https://github.com/dsibilio>
+  [sark-2110]: <https://github.com/sark-2110>
   
  ### Link
 
