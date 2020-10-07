@@ -12,6 +12,7 @@ Who contributed to this repository :
 * [master] - hello world in php
 * [Muhammad_Fatkurozi] - hello world in javascript, go, python, & java
 * [Abimanyu_Gatya_Dhaneswara] - hello world in python
+* [Prince] - hello world in brainfuck
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
