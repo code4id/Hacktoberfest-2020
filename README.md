@@ -16,6 +16,7 @@ Who contributed to this repository :
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
   [Abimanyu_Gatya_Dhaneswara]: <https://github.com/geekbim>
+  [Prince]: <https://github.com/PrinceSharzeel>
   
  ### Link
 
