@@ -24,6 +24,7 @@ Who contributed to this repository :
 * [master] - hello world in php
 * [Muhammad_Fatkurozi] - hello world in javascript, go, python, java, & dart
 * [Abimanyu_Gatya_Dhaneswara] - hello world in python
+* [JustTalDevelops] - hello world in rust
 * [Prince] - hello world in brainfuck
 * [Alan_Tsui] - hello world in c#
 * [dsibilio] - hello world in C
@@ -38,6 +39,7 @@ Who contributed to this repository :
   [dsibilio]: <https://github.com/dsibilio>
   [sark-2110]: <https://github.com/sark-2110>
   [Jason_Halverson]: <https://github.com/Halverson-Jason>
+  [JustTalDevelops]: <https://github.com/JustTalDevelops>
 
 ### Link
 
