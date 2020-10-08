@@ -37,9 +37,9 @@ Who contributed to this repository :
   [Alan_Tsui]: <https://github.com/kingal1337>
   [dsibilio]: <https://github.com/dsibilio>
   [sark-2110]: <https://github.com/sark-2110>
-  [halverson-jason]: <https://github.com/Halverson-Jason>
+  [Jason_Halverson]: <https://github.com/Halverson-Jason>
 
- ### Link
+### Link
 
 - [Hacktoberfest Digital Ocean](https://hacktoberfest.digitalocean.com/)
 
