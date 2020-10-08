@@ -1,10 +1,22 @@
-# Hacktoberfest - 2020
+<p align="center"><a href="https://digitalocean.com" target="_blank"><img src="https://github.com/digitalocean/hacktoberfest/blob/master/app/assets/images/HF-full-logo.svg" width="400"></a></p>
+
+<p align="center">
+  <a href="https://github.com/code2id/Hacktoberfest-2020/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/code2id/Hacktoberfest-2020"></a>
+    <a href="https://github.com/code2id/Hacktoberfest-2020/pulls"><img alt="GitHub issues" src="https://img.shields.io/github/issues-pr/code2id/Hacktoberfest-2020"></a>
+    <a href="https://github.com/code2id/Hacktoberfest-2020/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/code2id/Hacktoberfest-2020"></a>
+  <a href="https://github.com/code2id/Hacktoberfest-2020/graphs/contributors"><img alt="GitHub top language"src="https://img.shields.io/github/contributors/code2id/Hacktoberfest-2020"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
+</p>
+
+
+## Hacktoberfest - 2020
 
 #### Let's change the world together with Open-Source.
 This repo used for celebrating Hacktoberfest by getting involved in the open source community by completing some simple tasks in this project.
 
 ### Contribution
-  - Create the Hello World syntax in your preferred programming language.
+How contributed to this repository :
+  - Create the Hello World syntax in your preferred programming language
   - Add your name & link to your github account in README.md
 
 ### Contributors
@@ -12,10 +24,14 @@ Who contributed to this repository :
 * [master] - hello world in php
 * [Muhammad_Fatkurozi] - hello world in javascript, go, python, java, & dart
 * [Abimanyu_Gatya_Dhaneswara] - hello world in python
+* [JustTalDevelops] - hello world in rust
 * [Prince] - hello world in brainfuck
 * [Alan_Tsui] - hello world in c#
 * [dsibilio] - hello world in C
 * [sark-2110] - hello world in C++
+* [Jason_Halverson] - hello world in R & typescript
+* [Rdx11] - hello world in VerboseFuck
+ 
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
@@ -25,13 +41,12 @@ Who contributed to this repository :
   [dsibilio]: <https://github.com/dsibilio>
   [sark-2110]: <https://github.com/sark-2110>
   [Rdx11]: <https://github.com/Rdx11>
-  
- ### Link
+  [Jason_Halverson]: <https://github.com/Halverson-Jason>
+  [JustTalDevelops]: <https://github.com/JustTalDevelops>
 
-- [Discord link](https://discord.com/invite/hacktoberfest)
-- [Hacktoberfest Digital Ocean Link](https://hacktoberfest.digitalocean.com/)
-- [List of companies](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018#a-to-z-order-of-companies)
-  - Now that some companies give limited swag and some give things like Jetbrains license, keyboard to winners.
-  
+### Link
+
+- [Hacktoberfest Digital Ocean](https://hacktoberfest.digitalocean.com/)
+
 ### License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
