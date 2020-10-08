@@ -30,6 +30,8 @@ Who contributed to this repository :
 * [dsibilio] - hello world in C
 * [sark-2110] - hello world in C++
 * [Jason_Halverson] - hello world in R & typescript
+* [Rdx11] - hello world in VerboseFuck
+ 
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
@@ -38,6 +40,7 @@ Who contributed to this repository :
   [Alan_Tsui]: <https://github.com/kingal1337>
   [dsibilio]: <https://github.com/dsibilio>
   [sark-2110]: <https://github.com/sark-2110>
+  [Rdx11]: <https://github.com/Rdx11>
   [Jason_Halverson]: <https://github.com/Halverson-Jason>
   [JustTalDevelops]: <https://github.com/JustTalDevelops>
 
