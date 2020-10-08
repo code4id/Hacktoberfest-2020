@@ -28,6 +28,7 @@ Who contributed to this repository :
 * [Alan_Tsui] - hello world in c#
 * [dsibilio] - hello world in C
 * [sark-2110] - hello world in C++
+* [Jason_Halverson] - hello world in R & typescript
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
@@ -36,10 +37,11 @@ Who contributed to this repository :
   [Alan_Tsui]: <https://github.com/kingal1337>
   [dsibilio]: <https://github.com/dsibilio>
   [sark-2110]: <https://github.com/sark-2110>
-  
- ### Link
+  [Jason_Halverson]: <https://github.com/Halverson-Jason>
+
+### Link
 
 - [Hacktoberfest Digital Ocean](https://hacktoberfest.digitalocean.com/)
-  
+
 ### License
 This is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
