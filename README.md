@@ -31,7 +31,7 @@ Who contributed to this repository :
 * [sark-2110] - hello world in C++
 * [Jason_Halverson] - hello world in R & typescript
 * [Rdx11] - hello world in VerboseFuck
- 
+* [Khalid] - hello world in html 
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
@@ -43,6 +43,7 @@ Who contributed to this repository :
   [Rdx11]: <https://github.com/Rdx11>
   [Jason_Halverson]: <https://github.com/Halverson-Jason>
   [JustTalDevelops]: <https://github.com/JustTalDevelops>
+  [Khalid]: <https://github.com/khalidjambi>
 
 ### Link
 
