@@ -31,7 +31,8 @@ Who contributed to this repository :
 * [sark-2110] - hello world in C++
 * [Jason_Halverson] - hello world in R & typescript
 * [Rdx11] - hello world in VerboseFuck
-* [Khalid] - hello world in html 
+* [Khalid] - hello world in html
+* [yosadadev] - hello world in kotlin
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
@@ -44,6 +45,8 @@ Who contributed to this repository :
   [Jason_Halverson]: <https://github.com/Halverson-Jason>
   [JustTalDevelops]: <https://github.com/JustTalDevelops>
   [Khalid]: <https://github.com/khalidjambi>
+  [yosadadev]: <https://github.com/yosadadev>
+
 
 ### Link
 
