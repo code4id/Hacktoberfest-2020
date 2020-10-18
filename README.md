@@ -33,6 +33,7 @@ Who contributed to this repository :
 * [Rdx11] - hello world in VerboseFuck
 * [Khalid] - hello world in html
 * [yosadadev] - hello world in kotlin
+* [yosadadev] - hello world in pascal
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
