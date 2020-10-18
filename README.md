@@ -32,8 +32,7 @@ Who contributed to this repository :
 * [Jason_Halverson] - hello world in R & typescript
 * [Rdx11] - hello world in VerboseFuck
 * [Khalid] - hello world in html
-* [yosadadev] - hello world in kotlin
-* [yosadadev] - hello world in pascal
+* [yosadadev] - hello world in kotlin, pascal
 
   [master]: <https://github.com/codeind>
   [Muhammad_Fatkurozi]: <https://github.com/ibnumardini>
